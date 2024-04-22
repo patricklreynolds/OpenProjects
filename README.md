@@ -15,3 +15,6 @@ Type: Convolutional Neural Network (CNN)
 Layers: Conv2D for feature extraction, MaxPooling2D for downsampling
 Activation Functions: ReLU for non-linearity, softmax for output
 Output: 10 neurons for CIFAR-10 classes, probability distribution for classification
+
+# NEAT AI Sef-Driving Car Simulation
+NEAT (NeuroEvolution of Augmenting Topologies), Pygame
