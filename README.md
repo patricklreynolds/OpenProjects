@@ -4,7 +4,7 @@ Here is a repo for my public projects.
 
 #1 Old English Text Generator - RNN/LSTM
 
-#2 CNN Image Classification - RNN/LSTM
+#2 CNN Image Classification - 
 Language: Python
 Frameworks: TensorFlow, Keras
 Libraries: NumPy, Matplotlib, OpenCV
